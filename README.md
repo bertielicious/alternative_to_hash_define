@@ -1,0 +1,2 @@
+# alternative_to_hash_define
+alternative_to_hash_define
